@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
-  <link rel = "icon" href = "css/file.png" type = "image/x-icon">
+  <link rel="icon" href="css/file.png" type="image/x-icon">
 
   <title>Resume Maker</title>
 
@@ -47,13 +47,13 @@
 
     <!-- Navbar -->
     <ul class="navbar-nav ml-auto ml-md-0">
-     
+
       <li class="nav-item dropdown no-arrow">
         <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           <i class="fas fa-user-circle fa-fw"></i>
         </a>
         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
-         
+
           <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">Logout</a>
         </div>
       </li>
@@ -89,11 +89,11 @@
           <span>Resume Builder</span>
         </a>
         <div class="dropdown-menu" aria-labelledby="pagesDropdown">
-           <h6 class="dropdown-header">Steps :</h6>
-           <a class="dropdown-item" href="step1.php">Step  1</a>
-           <a class="dropdown-item" href="step2.php">Step  2</a>
-           <a class="dropdown-item" href="step3.php">Step  3</a>
-           <a class="dropdown-item" href="step4.php">Step  4</a>
+          <h6 class="dropdown-header">Steps :</h6>
+          <a class="dropdown-item" href="step1.php">Step 1</a>
+          <a class="dropdown-item" href="step2.php">Step 2</a>
+          <a class="dropdown-item" href="step3.php">Step 3</a>
+          <a class="dropdown-item" href="step4.php">Step 4</a>
           <div class="dropdown-divider"></div>
         </div>
       </li>
@@ -103,14 +103,14 @@
           <span>Logout</span>
         </a>
         <div class="dropdown-menu" aria-labelledby="pagesDropdown">
-           <a class="dropdown-item" href="logout.php">Logout</a>
+          <a class="dropdown-item" href="logout.php">Logout</a>
           <div class="dropdown-divider"></div>
         </div>
       </li>
 
 
 
-     
+
     </ul>
 
     <div id="content-wrapper">
@@ -129,9 +129,9 @@
 
         <!-- Icon Cards-->
         <div class="row">
-         
-          
-        
+
+
+
           <div class="col-xl-6 col-sm-6 mb-6">
             <div class="card text-white bg-primary o-hidden h-200">
               <div class="card-body">
@@ -150,10 +150,10 @@
           </div>
         </div>
 
-       
+
 
         <!-- -------------------------------- DataTables Example ---------------------------------- -->
-        
+
 
       </div>
       <!-- /.container-fluid -->
@@ -162,7 +162,7 @@
       <footer class="sticky-footer">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright © Lav Panchal 2021</span>
+            <span>Copyright © Shreya H M,Sahana V 2021</span>
           </div>
         </div>
       </footer>
