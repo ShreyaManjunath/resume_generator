@@ -1,6 +1,3 @@
 # resumemaker-php
 
-Resume maker web application with the use of PHP.
-
-URL : http://resumemaker.lovestoblog.com/
-
+Resume generator web application with the use of PHP.
